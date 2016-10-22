@@ -1,0 +1,6 @@
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

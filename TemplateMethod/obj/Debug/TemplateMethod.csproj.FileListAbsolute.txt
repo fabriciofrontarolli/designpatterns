@@ -1,0 +1,6 @@
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Projetos\DotNet\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
